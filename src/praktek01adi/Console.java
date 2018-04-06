@@ -10,5 +10,15 @@ package praktek01adi;
  * @author ACER-PC
  */
 public class Console {
+    String Jenis;
+    String Harga;
+    String Merk;
+    String Tipe;
     
+    void cetakInfo() {
+        System.out.println("Jenis :"+Jenis);
+        System.out.println("Harga :"+Harga);
+        System.out.println("Merk :"+Merk);
+        System.out.println("Tipe :"+Tipe);
+    }
 }
