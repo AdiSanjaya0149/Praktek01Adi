@@ -11,6 +11,6 @@ package praktek01adi;
  */
 public class ConsoleAksi {
     public static void main(String[] args) {
-        
+        Console Adi = new Console();
     }
 }
