@@ -12,5 +12,10 @@ package praktek01adi;
 public class ConsoleAksi {
     public static void main(String[] args) {
         Console Adi = new Console();
+        
+        Adi.Jenis="xbox";
+        Adi.Harga="320000";
+        Adi.Merk="Plastation3";
+        Adi.Tipe="RPG";
     }
 }
