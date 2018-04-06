@@ -17,5 +17,7 @@ public class ConsoleAksi {
         Adi.Harga="320000";
         Adi.Merk="Plastation3";
         Adi.Tipe="RPG";
+        
+        Adi.cetakInfo();
     }
 }
